@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an unemployed hobby programmer.
+I am an hobby programmer.
 
 
 # 💻 Tech Stack:
